@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/favorite"
+        android:orderInCategory="10"
+        android:title="收藏夹"
+
+        >
+    </item>
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="10"
+        android:title="收藏"
+
+        >
+    </item>
+    <item
+        android:id="@+id/html"
+        android:orderInCategory="10"
+        android:title="查看源代码"
+
+        >
+    </item>
+    <item
+        android:id="@+id/first"
+        android:orderInCategory="10"
+        android:title="设为首页"
+
+        >
+    </item>
+
+</menu>
